@@ -1,0 +1,10 @@
+[
+    {
+        "relation": [ "delegate_permission/common.handle_all_urls" ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.fitbot",
+            "sha256_cert_fingerprints": [ "eb:38:4a:91:ca:87:42:23:92:0f:0f:51:8b:2d:f5:f5:1c:cb:52:10:16:c7:9d:f6:5f:f4:04:3c:69:d8:22:32" ]
+        }
+        }
+]
